@@ -25,7 +25,7 @@ public class Strings {
 		// }
 		// count("people", "e");
 		// hasAnA("Apple");
-		if(isAbecedarian("deflux")) {
+		if(isAbecedarian("deflua")) {
 			System.out.println("Yes");
 		}else{
 			System.out.println("No");
@@ -86,5 +86,8 @@ public class Strings {
 			}
 		}
 		return true;
+	}
+	public static boolean isDupledrome(String s) {
+		
 	}
 }
